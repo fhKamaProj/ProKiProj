@@ -1,0 +1,2 @@
+# ProKiProj
+Modelldatei für CNN
